@@ -1,2 +1,4 @@
-# Project-Chatbot
-This is a chatbot project created using the chatterbot library in python.
+Project-Chatbot.
+
+Self learning chatbot project using chatterbot library. Uses NLP and Machine learning algorithms to generate the best response to user input.
+Run AIChatbot.py
